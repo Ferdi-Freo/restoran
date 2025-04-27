@@ -1,0 +1,4 @@
+Recana kedepan : 
+* Menambahkan cabang
+* Manambahkan  karyawan
+* Menambahkan menu baru
