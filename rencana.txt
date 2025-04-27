@@ -1,4 +1,4 @@
 Recana kedepan : 
 * Menambahkan cabang
-* Promosi di sosmed
 * Manambahkan  karyawan
+* Menambahkan menu baru
