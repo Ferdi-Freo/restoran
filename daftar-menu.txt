@@ -1,0 +1,7 @@
+Daftar Menu Restoran : 
+* Makanan
+  - Ayam
+  - Ikan
+* Minuman 
+  - Teh
+  - Kopi
