@@ -2,6 +2,8 @@ Daftar Menu Restoran :
 * Makanan
   - Ayam
   - Sosis
+  - Ikan
 * Minuman 
   - Kopi
   - Susu
+  - Soda
