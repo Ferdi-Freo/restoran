@@ -8,3 +8,4 @@ Daftar Menu Restoran :
   - Teh
   - Kopi
   - Susu
+  - Soda
