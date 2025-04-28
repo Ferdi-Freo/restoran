@@ -1,11 +1,9 @@
 Daftar Menu Restoran : 
 * Makanan
   - Ayam
+  - Sosis
   - Ikan
-  - Nasgor
-  - Mie Ayam
 * Minuman 
-  - Teh
   - Kopi
   - Susu
   - Soda
